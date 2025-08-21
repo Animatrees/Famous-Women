@@ -418,7 +418,10 @@ ul.lang-list li a:hover {color: #fdc073;}
 
 #footer {
 	box-sizing: border-box;
-
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 	background: #4C3B4D;
 	padding: 5px;
 	color: #aaa;
